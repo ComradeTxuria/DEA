@@ -2,7 +2,7 @@ public class Webgunea
   {
     private String url;
     private ArrayList<Webgunea> webguneZerrenda;
-    private ArrayList<Hitza>;
+    private ArrayList<Hitza> hitzKlabeZerrenda;
 
 
     public Webgunea()
