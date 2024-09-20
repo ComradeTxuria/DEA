@@ -1,6 +1,7 @@
 Elementuen karga, bilaketak eta zerrendatzea egingo dituen sistemaren diseinu eta
 implementazioa.
 
+
 Azken helburua: sistemak honako eragiketak egingo ditu modu eraginkorrean:
 
 • Datuak kargatu fitxategietatik.
