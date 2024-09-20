@@ -10,6 +10,6 @@ public class HitzKlabeak {
 		if (nireHitzKlabeak == null) {
 			nireHitzKlabeak = new HitzKlabeak();
 		} 
-	  return nireMazoa;
+	    return nireMazoa;
 	}
 }
