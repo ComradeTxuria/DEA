@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class HitzKlabeak {
 	private ArrayList<Hitza> hLista;
 	private static HitzKlabeak nireHitzKlabeak = null;
@@ -10,6 +12,6 @@ public class HitzKlabeak {
 		if (nireHitzKlabeak == null) {
 			nireHitzKlabeak = new HitzKlabeak();
 		} 
-	    return nireMazoa;
+	    return nireHitzKlabeak;
 	}
 }
