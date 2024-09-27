@@ -31,7 +31,7 @@ public class Main{
                     System.out.println();
                     System.out.println("Nola bilatu nahi duzu web-orria?");
                     System.out.println();
-                    System.out.println("1. Zenbakiaren bitartez.");
+                    System.out.println("1. ID baten bitartez.");
                     System.out.println("2. Gako-hitz baten bitartez.");
                     System.out.println();
                     System.out.print("Aukeratu nahi duzun prozesua: ");
@@ -44,7 +44,7 @@ public class Main{
                         case 1 -> {
                             System.out.println("___________________________________");
                             System.out.println();
-                            System.out.print("Zenbakia idatzi: ");
+                            System.out.print("ID-a idatzi: ");
                             String id = input.next();
                             System.out.print("\033[H\033[2J");   
                             System.out.flush();
