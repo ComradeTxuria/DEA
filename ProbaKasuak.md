@@ -1,3 +1,8 @@
 PROBA KASUAK
 
-1.
+  Webgune baten bilaketaren kasuan, bi modu daude:
+    Aurre: Zenbaki bat.
+    Post: Zenbaki (edo Id) hori duen webgunea.
+
+    Aurre: Hitz-gakoa.
+    Post: Hitz-gako hori duten webguneak.
