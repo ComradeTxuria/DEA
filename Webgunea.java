@@ -20,4 +20,12 @@ public class Webgunea {
   public String getUrl() {
     return url;
   }
+
+  public ArrayList<Webgunea> getWebguneZerrenda() {
+    return webguneZerrenda;
+  }
+
+  public void setWebguneZerrenda(ArrayList<Webgunea> webguneZerrenda) {
+    this.webguneZerrenda = webguneZerrenda;
+  }
 }
