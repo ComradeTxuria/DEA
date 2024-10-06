@@ -26,4 +26,5 @@ public class Webgunea {
   public void setWebguneZerrenda(ArrayList<Webgunea> webguneZerrenda) {
     this.webguneZerrenda = webguneZerrenda;
   }
+  
 }
